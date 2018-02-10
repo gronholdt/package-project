@@ -1,1 +1,1 @@
-# main-project
+# package-project
